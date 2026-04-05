@@ -82,9 +82,9 @@ I bring not just technical skills but **real-world business experience** — hav
 
 <div align="center">
 
-![Ibhade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibhade-ewalefoh&show_icons=true&theme=dark&title_color=D4A017&icon_color=0047AB&text_color=ffffff&bg_color=080808)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibhade-ewalefoh&theme=dark&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&background=080808&border=D4A017)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibhade-ewalefoh&layout=compact&theme=dark&title_color=D4A017&text_color=ffffff&bg_color=080808)
+![Profile Views](https://komarev.com/ghpvc/?username=ibhade-ewalefoh&color=D4A017&style=flat-square&label=Profile+Views)
 
 </div>
 
